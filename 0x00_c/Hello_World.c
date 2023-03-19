@@ -1,8 +1,11 @@
 #include <stdio.h>
-
-int main() {
-
-	printf("Hello World");
-	
-		return 0;
-	}
+/**
+ * main - to start 
+ *
+ * Return: to value 0
+ */
+int main(void)
+{
+	printf("Hello World\n");
+	return (0);
+}
