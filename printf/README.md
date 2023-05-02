@@ -1,4 +1,6 @@
-Author: Jean Damascene Ngaboyimana Collaborator: Jean Lionel Ndabaga
+Author: Jean Damascene Ngaboyimana
+
+Individual Training.
 
 Project: 0x11. C - printf
 
