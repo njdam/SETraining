@@ -1,4 +1,4 @@
-#Welcome to DAM SHOW Training Room!
+# Welcome to DAM SHOW Training Room!
 
 As Alx Software Engeneering Student, 
 Here, there are the self learning review about coding lessons.
@@ -52,9 +52,9 @@ This is a [link](https://www.google.com/)
 ```
 
 ```
-\`\`\`
+[```]()
 code blocks
-\`\`\`
+[```]()
 ```
 6. [Blockquotes](): Used to display quotes or citations.
 `> This is a blockquote`
