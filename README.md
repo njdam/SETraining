@@ -52,9 +52,9 @@ This is a [link](https://www.google.com/)
 ```
 
 ```
-```
+/`/`/`
 code blocks
-```
+/`/`/`
 ```
 6. [Blockquotes](): Used to display quotes or citations.
 `> This is a blockquote`
