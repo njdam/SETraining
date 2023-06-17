@@ -87,6 +87,10 @@ Info will be found on `cmp` (compare), `je` (jump if equal means if `cmp` pass),
 	WHERE:
 		'rax': rax register is 'Accumulator register' to store return value.
 		'rcx': rcx register is the counter register is often involved in iteration or loop-related instructions. (rcx" register useful for observing loop counters or iterating over data structures.)
+		'movzx': move with zero extension.
+		'eax': is the destination register.
+		'BYTE PTR':  specifies the size of the operand being moved, indicating that a single byte will be accessed and copied.
+		'[rbp+rax*1-0x50]': is the source operand. It represents a memory address calculated by adding the value of "rbp" (base pointer register) with the value of "rax" (accumulator register) multiplied by 1 and subtracting 0x50.
 
 	cmp rax,0x4  # to compare if entered str it's strlen(str) is equal to 4
 
